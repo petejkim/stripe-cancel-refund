@@ -3,6 +3,8 @@ stripe-cancel-refund
 
 This script cancels subscriptions and issues refunds. Use when you are shutting down your service.
 
+I hope you will never have to use this.
+
 Use at your own risk. No warranty provided.
 
 - - -
