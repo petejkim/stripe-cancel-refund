@@ -1,0 +1,24 @@
+{
+  "name": "stripe-cancel-refund",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.1.2",
+    "request": "^2.76.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/petejkim/stripe-cancel-refund.git"
+  },
+  "author": "Peter Jihoon Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petejkim/stripe-cancel-refund/issues"
+  },
+  "homepage": "https://github.com/petejkim/stripe-cancel-refund#readme"
+}
